@@ -1,5 +1,5 @@
 {
-	"name": "phantomjs-decaptcher",
+	"name": "selfpaidinc/phantomjs-decaptcher",
 	"description": "Automatic and manual(typing) solving of CAPTCHAS for phantomjs",
 	"version": "0.0.1",
 	"author": {
